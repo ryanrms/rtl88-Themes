@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=PUNK-Sweet
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=PUNK-Sweet
+MetacityTheme=PUNK-Sweet
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
