@@ -1,4 +1,4 @@
-FreshBerry is a new GTK, xfwm4, openbox-3, GNOME-Shell and Cinnamon dark-mode theme which showcases a color scheme that is highly readable, colorful, and attractive. The theme represents a careful blending of modernized Numix elements, in tandem with those of minimalist artist Rafa Capoci, icon designer Wojciech Kalinowski, and full-stack web-developer/themer Pavel Agarkov, with an overlay of the provided color scheme.
+FreshBerry is a new GTK, xfwm4, openbox-3, GNOME-Shell and Cinnamon dark-mode theme which showcases a color scheme that is highly readable, colorful, and we hope, attractive. The theme represents a careful blending of modernized Numix elements, in tandem with those of minimalist artist Rafa Capoci, icon designer Wojciech Kalinowski, and full-stack web-developer/themer Pavel Agarkov, with an overlay of the provided color scheme.
 
 Matching Numix, matching GNOME, and matching Suru++ icons are also available for download here.
 
